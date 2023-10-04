@@ -25,7 +25,7 @@ A simple Netflix-inspired homepage using HTML and CSS for practice and learning.
 - `README.md`: This documentation.
 - `screenshot.png`: Website screenshot.
 
-# **Tech Used:
+# Tech Used:
 HTML, CSS
 
 # **Contribute:** 
