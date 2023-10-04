@@ -26,7 +26,7 @@ A simple Netflix-inspired homepage using HTML and CSS for practice and learning.
 - `screenshot.png`: Website screenshot.
 
 # **Tech Used:
-** HTML, CSS
+HTML, CSS
 
 # **Contribute:** 
 Feel free to fork and create pull requests.
