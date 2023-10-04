@@ -9,7 +9,7 @@ A simple Netflix-inspired homepage using HTML and CSS for practice and learning.
 - Basic navigation menu.
 - Sample movie content (replace with your own).
 
-**Getting Started:**
+# **Getting Started:**
 1. Clone the repository.
 2. Open in your code editor.
 3. Customize content and style.
@@ -17,7 +17,7 @@ A simple Netflix-inspired homepage using HTML and CSS for practice and learning.
 5. Replace sample content and images.
 6. Enhance as desired.
 
-**Folder Structure:**
+# **Folder Structure:**
 - `index.html`: Main HTML file.
 - `css/`: CSS files for styling.
 - `images/`: Store your images.
@@ -25,11 +25,11 @@ A simple Netflix-inspired homepage using HTML and CSS for practice and learning.
 - `README.md`: This documentation.
 - `screenshot.png`: Website screenshot.
 
-**Tech Used:** HTML, CSS
+# **Tech Used:** HTML, CSS
 
-**Contribute:** Feel free to fork and create pull requests.
+# **Contribute:** Feel free to fork and create pull requests.
 
-Thanks for visiting!!
+# Thanks for visiting!!
 
-**Author**
+# **Author**
 Abhinav Gardia
